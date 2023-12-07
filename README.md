@@ -4,7 +4,7 @@ This repository is to showcase my technical skills and projects completed during
 
 # Table of Contents
 
-## A/B Test Project
+[A/B Test Project](## A/B Test Project)
 
 ## AtliQ Hardware Customer Analysis
 
