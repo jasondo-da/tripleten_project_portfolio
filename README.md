@@ -2,7 +2,7 @@
 
 This repository is to showcase my technical skills and projects completed during my tenure at the TripleTen program. 
 
-# Table of Contents
+## Table of Contents
 - [A/B Test Project](#a/b-test-project)
 - [AtliQ Hardware Customer Analysis](#atliq-hardware-customer-analysis)
 - [Secondary Market Automobile Sales Analysis](#secondary-market-automobile-sales-analysis)
