@@ -2,6 +2,21 @@
 
 This repository is to showcase my technical skills and projects completed during my tenure at the TripleTen program. 
 
+# Table of Contents
+
+## A/B Test Project
+
+## AtliQ Hardware Customer Analysis
+
+## Secondary Market Automobile Sales Analysis 
+
+## Instacart Exploratory Data Analysis
+
+## Megaline Mobile Carrier Machine Learning Model
+
+## Yandex.Afisha Marketing Expense Analysis
+
+
 
 ## A/B Test Project
 
