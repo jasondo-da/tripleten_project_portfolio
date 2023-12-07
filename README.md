@@ -13,7 +13,6 @@ This repository is to showcase my technical skills and projects completed during
 <a name="headers"/>
 
 
-
 ## A/B Test Project
 
 Code: [A/B Test Project](https://github.com/jasondo-da/portfolio_projects/blob/main/abtest_project_pdf.pdf)
