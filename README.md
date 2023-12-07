@@ -8,7 +8,7 @@ This repository is to showcase my technical skills and projects completed during
 - [Secondary Market Automobile Sales Analysis](#secondary-market-automobile-sales-analysis)
 - [Instacart Exploratory Data Analysis](#instacart-exploratory-data-analysis)
 - [Megaline Mobile Carrier Machine Learning Model](#megaline-mobile-carrier-machine-learning-model)
-- [Yandex.Afisha Marketing Expense Analysis](#yandex-afisha-marketing-expense-analysis)
+- [Yandex.Afisha Marketing Expense Analysis](#yandexafisha-marketing-expense-analysis)
 
 <a name="headers"/>
 
