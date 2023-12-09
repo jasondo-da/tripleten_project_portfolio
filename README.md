@@ -24,7 +24,7 @@ This repository is to showcase my technical skills and projects completed during
 
 ## AtliQ Hardware Customer Analysis
 
-| Code | [AtliQ Hardware Customer Analysis](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2012%20-%20AtliQ/atliq_customer_analysis_pdf.pdf) |
+| Code | [AtliQ Hardware Customer Analysis](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2012%20-%20AtliQ/atliq_customer_analysis.ipynb) |
 | :------------- | :------------ |
 | Goal | To conduct a customer analysis for AtliQ Hardware with the goal of increasing their customer orders and growing their customer base. |
 | Description | As a junior analyst for a third-party consulting agency, our client AtliQ Hardware is interested in learning more about their customers and is asking for a customer analysis. AtliQ Hardware has provided us with a backup of their database in the SQLite format. AtliQ Hardware has also restricted the ability to load the whole database to CSV. The backup database includes data on customers, products, gross prices, monthly sales, and other relevant information. Completing this project includes connecting to the database, cleaning data, pre-processing data, exploratory data analysis (EDA), and creating visuals for the discovered results. |
