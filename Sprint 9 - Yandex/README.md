@@ -38,7 +38,7 @@ Results: Based on the sample data, the ideal solution would be to allocate more 
 
 
 ## Table of Contents
-- [Yandex.Afisha Marketing Expense Analysis Jupyter Notebook](#yandexafisha=marketing-expense-analysis-jupyter-notebook)
+- [Yandex.Afisha Marketing Expense Analysis Jupyter Notebook](#yandex-afisha=marketing-expense-analysis-jupyter-notebook)
 - [Visits Log Raw Data CSV](#visits-log-raw-data-csv)
 - [Orders Log Raw Data CSV](#orders-log-raw-data-csv)
 - [Costs Raw Data CSV](#costs-raw-data-csv)
