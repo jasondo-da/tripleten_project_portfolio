@@ -7,6 +7,7 @@ Introduction: Using a modified version of Instacart 2017 data, this project is a
 Analysis Outline: 
 
 Part A
+
 • Verify that values in the 'order_hour_of_day' columns in the orders table are in ranges from 0 to 23 and 'order_dow' ranges from 0 to 6.
 
 • Create a plot that shows how many people place orders for each hour of the day.
@@ -16,6 +17,7 @@ Part A
 • Create a plot that shows how long people wait until they place their next order.
 
 Part B
+
 • Displayed the difference in 'order_hour_of_day' distributions on Wednesdays and Saturdays using histograms.
 
 • Plotted the distribution for the number of total orders that customers make.
@@ -23,6 +25,7 @@ Part B
 • List the top 20 products that are most frequently ordered.
 
 Part C
+
 • Calculated how large each customer's cart size is per order.
 
 • List of the top 20 items that are reordered most frequently by our customers.
