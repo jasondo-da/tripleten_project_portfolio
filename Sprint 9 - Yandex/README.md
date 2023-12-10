@@ -38,7 +38,7 @@ Results: Based on the sample data, the ideal solution would be to allocate more 
 
 
 ## Table of Contents
-- [Jupyter Notebook](#jupyter-notebook)
+- [Yandex.Afisha Marketing Expense Analysis Jupyter Notebook](#yandex.afisha=marketing-expense-analysis-jupyter-notebook)
 - [Visits Log Raw Data CSV](#visits-log-raw-data-csv)
 - [Orders Log Raw Data CSV](#orders-log-raw-data-csv)
 - [Costs Raw Data CSV](#costs-raw-data-csv)
@@ -46,7 +46,7 @@ Results: Based on the sample data, the ideal solution would be to allocate more 
 <a name="headers"/>
 
 
-## Jupyter Notebook
+## Yandex.Afisha Marketing Expense Analysis Jupyter Notebook
 Yandex.Afisha Marketing Expense Analysis project in Jupyter Notebook.
 
 Code: [Jupyter Notebook](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/yandex_afisha.ipynb)
@@ -57,7 +57,9 @@ Code: [Jupyter Notebook](https://github.com/jasondo-da/tripleten_project_portfol
 The visits table are server logs with data on website visits.
 (All dates in this table are in YYYY-MM-DD format)
 
-| Code | [Visits Log Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/visits_log_us.csv) |
+Code: [Visits Log Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/visits_log_us.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | Uid | user's unique identifier |
 | Device | user's device |
@@ -69,7 +71,9 @@ The visits table are server logs with data on website visits.
 ## Orders Log Raw Data CSV
 The orders table consists of data on orders.
 
-| Code | [Orders Log Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/orders_log_us.csv) |
+Code: [Orders Log Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/orders_log_us.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | Uid | unique identifier of the user making an order |
 | Buy Ts | order date and time |
@@ -79,7 +83,9 @@ The orders table consists of data on orders.
 ## Costs Raw Data CSV
 The costs table is made of data on marketing expenses.
 
-| Code | [Costs Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/costs_us.csv) |
+Code: [Costs Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/costs_us.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | source_id | ad source identifier |
 | dt | date |
