@@ -42,7 +42,7 @@ This repository is to showcase my technical skills and projects completed during
 | Description | This project is to provide a dataset record of car sales. These records include the price of sale, model, model year, condition, odometer, manufacturer, and other important information about vehicle sales. To complete this project, requires data cleaning, exploratory data analysis (EDA), data visualization, and knowledge of how to use GitHub and render to build the web application. |
 | Skills | data cleaning, exploratory data analysis (EDA), data visualization |
 | Technology | VS Code, Pandas, Streamlit, Plotly, Vega-Altair, GitHub, render |
-| Results |  |
+| Results | Successful creation of a web application for customers interested in buying cars on the secondary automobile market. |
 
 ## Instacart Exploratory Data Analysis
 
