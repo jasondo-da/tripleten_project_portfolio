@@ -103,6 +103,7 @@ Code: [Aisles Raw Data CSV](https://github.com/jasondo-da/tripleten_project_port
 
 ## Departments Raw Data CSV
 The departments table contains the department names and IDs.
+
 Code: [Departments Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/departments.csv)
 
 | Column Name | Column Description |
