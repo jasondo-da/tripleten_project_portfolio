@@ -21,13 +21,13 @@ Analysis Outline:
 Results: Discovered our customers' shopping habits regarding product preferences and made recommendations on areas of improvement such as which countries to target and to put more emphasis on the e-commerce side of the business. 
 
 ## Table of Contents
-- [Jupyter Notebook](#jupyter-notebook)
+- [AtliQ Hardware Customer Analysis Jupyter Notebook](#atliQ-hardware-customer-analysis-jupyter-notebook)
 - [AtliQ Database](#atliq-database)
 
 <a name="headers"/>
 
 
-## Jupyter Notebook
+## AtliQ Hardware Customer Analysis Jupyter Notebook
 AtliQ Hardware Customer Analysis project in Jupyter Notebook.
 
 Code: [AtliQ Hardware Customer Analysis](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2012%20-%20AtliQ/atliq_customer_analysis.ipynb)
