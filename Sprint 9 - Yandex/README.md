@@ -1,7 +1,5 @@
 # Yandex.Afisha Marketing Expense Analysis 
 
-Code: [Yandex.Afisha Marketing Expense Analysis](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/yandex_afisha.ipynb)
-
 Goal: Analyze the marketing expenses for Yandex.Afisha and find methods to optimize it. 
 
 Introduction: As an intern for Yandex.Afisha's analytical department our first task is to help optimize the marketing expenses. Yandex.Afisha will allow access to server logs for the visits from June 2017 through May 2018, a large file of all the orders, and marketing expense statistics. The project involves data cleaning, data analysis, business analysis, cohort analysis, and data visualization.
