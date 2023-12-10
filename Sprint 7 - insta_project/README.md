@@ -30,10 +30,10 @@ Part C
 
 • List of the top 20 items that are reordered most frequently by our customers.
 
-Results: Discovered our customers' shopping habits from purchase frequency to most popular sold products to most busy time and day. 
+Results: Discovered our customers' shopping habits from purchase frequency to most popular sold products to highest store traffic periods.
 
 ## Table of Contents
-- [Jupyter Notebook](#jupyter-notebook)
+- [Instacart Exploratory Data Analysis Jupyter Notebook](#instacart-exploratory-data-analysis-jupyter-notebook)
 - [Instacart Orders Raw Data CSV](#instacart-orders-raw-data-csv)
 - [Products Raw Data CSV](#products-raw-data-csv)
 - [Order Products Raw Data CSV](#order=products-raw-data-csv)
@@ -43,7 +43,7 @@ Results: Discovered our customers' shopping habits from purchase frequency to mo
 <a name="headers"/>
 
 
-## Jupyter Notebook
+## Instacart Exploratory Data Analysis Jupyter Notebook
 Instacart Exploratory Data Analysis project in Jupyter Notebook.
 
 Code: [Instacart Exploratory Data Analysis](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/insta_cart_eda.ipynb)
@@ -52,7 +52,9 @@ Code: [Instacart Exploratory Data Analysis](https://github.com/jasondo-da/triple
 ## Instacart Orders Raw Data CSV
 The instacart orders table holdss every order made on the Instacart app.
 
-| Code | [Instacart Orders Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/instacart_orders.csv) |
+Code: [Instacart Orders Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/instacart_orders.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | order_id | ID number that uniquely identifies each order |
 | user_id | ID number that uniquely identifies each customer account |
@@ -65,7 +67,9 @@ The instacart orders table holdss every order made on the Instacart app.
 ## Products Raw Data CSV
 The products tables contains a unique product that customers can buy.
 
-| Code | [Products Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/products.csv) |
+Code: [Products Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/products.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | product_id | ID number that uniquely identifies each product |
 | product_name | name of the product |
@@ -76,7 +80,9 @@ The products tables contains a unique product that customers can buy.
 ## Order Products Raw Data CSV
 The order products table entries displays an item placed in an order. (The order_products.csv file was not included due to limited upload size on GitHub)
 
-| Code | ---------------- |
+Code: ---------------- 
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | order_id | ID number that uniquely identifies each order |
 | product_id | ID number that uniquely identifies each product |
@@ -87,7 +93,9 @@ The order products table entries displays an item placed in an order. (The order
 ## Aisles Raw Data CSV
 The aisles table contains the aisle names and IDs.
 
-| Code | [Aisles Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/aisles.csv) |
+Code: [Aisles Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/aisles.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | aisle_id | ID number that uniquely identifies each grocery aisle category |
 | aisle | name of the aisle |
@@ -95,7 +103,9 @@ The aisles table contains the aisle names and IDs.
 
 ## Departments Raw Data CSV
 The departments table contains the department names and IDs.
-| Code | [Departments Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/departments.csv) |
+Code: [Departments Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%207%20-%20insta_project/departments.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | department_id | ID number that uniquely identifies each grocery department category |
 | department | name of the department |
