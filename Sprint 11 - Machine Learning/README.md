@@ -19,13 +19,13 @@ Analysis Outline:
 Results: The model we have built with the highest accuracy would be the random forest model. This is to be expected as the random forest model usually has the highest accuracy score when compared to the other model types.
 
 ## Table of Contents
-- [Jupyter Notebook](#jupyter-notebook)
+- [Megaline Mobile Carrier Machine Learning Model Jupyter Notebook](#megaline-mobile-carrier-machine-learning-model-jupyter-notebook)
 - [User Behavior Raw Data CSV](#user-behavior-raw-data-csv)
 
 <a name="headers"/>
 
 
-## Jupyter Notebook
+## Megaline Mobile Carrier Machine Learning Model Jupyter Notebook
 Megaline Mobile Carrier Machine Learning project in Jupyter Notebook.
 
 Code: [Megaline Mobile Carrier Machine Learning Model](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2011%20-%20Machine%20Learning/megaline_project.ipynb)
