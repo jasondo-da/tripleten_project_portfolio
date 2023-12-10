@@ -76,7 +76,7 @@ The products tables contains a unique product that customers can buy.
 ## Order Products Raw Data CSV
 The order products table entries displays an item placed in an order. (The order_products.csv file was not included due to limited upload size on GitHub)
 
-| Code | Order Products Raw Data CSV |
+| Code | ---------------- |
 | :------------- | :------------ |
 | order_id | ID number that uniquely identifies each order |
 | product_id | ID number that uniquely identifies each product |
