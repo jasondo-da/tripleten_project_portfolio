@@ -7,6 +7,7 @@ Introduction: As an intern for Yandex.Afisha's analytical department our first t
 Analysis Outline: 
 
 Products
+
 • Grouped users by various timeframes (daily, weekly, monthly) to find the total number of users for that period.
 
 • Calculate the session frequency of daily users.
