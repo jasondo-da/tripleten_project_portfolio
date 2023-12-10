@@ -32,7 +32,9 @@ Code: [A/B Test Analysis](https://github.com/jasondo-da/tripleten_project_portfo
 ## Hypotheses US Raw Data CSV
 The hypotheses data carries several different hypotheses and their various levels of effectiveness if implemented.
 
-| Code | [Hypotheses US Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2010%20%20-%20AB%20Test/hypotheses_us.csv) |
+Code: [Hypotheses US Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2010%20%20-%20AB%20Test/hypotheses_us.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | Hypotheses | brief descriptions of the hypotheses |
 | Reach | user reach, on a scale of one to ten |
@@ -44,7 +46,9 @@ The hypotheses data carries several different hypotheses and their various level
 ## Orders US Raw Data CSV
 The orders us table contains data related each transactions made.
 
-| Code | [Orders US Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2010%20%20-%20AB%20Test/orders_us.csv) |
+Code: [Orders US Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2010%20%20-%20AB%20Test/orders_us.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | transactionId | order identifier |
 | visitorId | identifier of the user who placed the order |
@@ -56,7 +60,9 @@ The orders us table contains data related each transactions made.
 ## Visits US Raw Data CSV
 The visits us table contains data from each visitor.
 
-| Code | [Visits US Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2010%20%20-%20AB%20Test/visits_us.csv) |
+Code: [Visits US Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2010%20%20-%20AB%20Test/visits_us.csv)
+
+| Column Name | Column Description |
 | :------------- | :------------ |
 | date | date |
 | group | A/B test group |
