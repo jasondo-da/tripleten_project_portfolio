@@ -34,8 +34,8 @@ Results: Discovered our customers' shopping habits from purchase frequency to mo
 
 ## Table of Contents
 - [Jupyter Notebook](#jupyter-notebook)
-- [Visits Log Raw Data CSV](#instacart-orders-raw-data-csv)
-- [Orders Log Raw Data CSV](#products-raw-data-csv)
+- [Instacart Orders Raw Data CSV](#instacart-orders-raw-data-csv)
+- [Products Raw Data CSV](#products-raw-data-csv)
 - [Order Products Raw Data CSV](#order=products-raw-data-csv)
 - [Aisles Raw Data CSV](#aisles-raw-data-csv)
 - [Departments Raw Data CSV](#departments-raw-data-csv)
