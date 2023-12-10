@@ -32,7 +32,7 @@ Code: [Megaline Mobile Carrier Machine Learning Model](https://github.com/jasond
 
 
 ## User Behavior Raw Data CSV
-AtliQ Hardware has provided us with a backup of their database in the SQLite format, no CSV files will be provided, and the company has also restricted your ability to load the whole database to CSV. (The atliq_db.sqlite3 provided file was not included due to limited upload size on GitHub)
+Every observation in the dataset contains monthly behavior information about one user. 
 
 | Code | [User Behavior Raw Data CSV](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2011%20-%20Machine%20Learning/users_behavior.csv) |
 | :------------- | :------------ |
