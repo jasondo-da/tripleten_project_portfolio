@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Goal](#goal)
 - [Introduction](#introduction)
-- [Analysis Outline](#analysis_outline)
+- [Analysis Outline](#analysis-outline)
 - [A/B Test Analysis Jupyter Notebook](#a/b-test-analysis-jupyter-notebook)
 - [Hypotheses US Raw Data CSV](#hypotheses-us-raw-data-csv)
 - [Orders US Raw Data CSV](#orders-us-raw-data-csv)
