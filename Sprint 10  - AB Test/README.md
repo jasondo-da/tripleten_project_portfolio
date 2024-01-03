@@ -4,6 +4,7 @@
 - [Goal](#goal)
 - [Introduction](#introduction)
 - [Analysis Outline](#analysis-outline)
+- [Results](#results)
 - [A/B Test Analysis Jupyter Notebook](#a/b-test-analysis-jupyter-notebook)
 - [Hypotheses US Raw Data CSV](#hypotheses-us-raw-data-csv)
 - [Orders US Raw Data CSV](#orders-us-raw-data-csv)
@@ -25,10 +26,13 @@ This project is focused on two parts: analyzing a list of potential hypotheses a
 
 • Made fact based reccomendations to assist company executives on web page performance.
 
-Results: The end data supported that the alternative hypothesis (H1) is the better web page based on the statistical significance difference between groups A and B.
+### Results: 
+
+The end data supported that the alternative hypothesis (H1) is the better web page based on the statistical significance difference between groups A and B.
 
 
 ## A/B Test Analysis Jupyter Notebook
+
 A/B Test Analysis project in Jupyter Notebook.
 
 Code: [A/B Test Analysis](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2010%20%20-%20AB%20Test/abtest_project.ipynb)
