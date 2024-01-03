@@ -20,7 +20,7 @@ The objectivce is to  first clean the data and then prepare a report that gives 
 
 Using a modified version of Instacart 2017 data, this project is a test to see if we can clean all the errors and process the data of the modified Instacart data. The database includes Instacart orders, products, departments, and other important information. To complete this project will require high attention to detail during the cleaning and pre-processing segment of the project and a deep understanding of the data to accurately report customer behavior through easy-to-read visuals.
 
-Analysis Outline: 
+### Analysis Outline: 
 
 Part A
 
