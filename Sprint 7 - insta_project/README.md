@@ -1,8 +1,24 @@
 # Instacart Exploratory Data Analysis
 
-Goal: The objectivce is to  first clean the data and then prepare a report that gives insight into the behavior and shopping habits of Instacart customers from 2017.
+## Table of Contents
+- [Goal](#goal)
+- [Introduction](#introduction)
+- [Analysis Outline](#analysis-outline)
+- [Results](#results)
+- [Instacart Exploratory Data Analysis Jupyter Notebook](#instacart-exploratory-data-analysis-jupyter-notebook)
+- [Instacart Orders Raw Data CSV](#instacart-orders-raw-data-csv)
+- [Products Raw Data CSV](#products-raw-data-csv)
+- [Order Products Raw Data CSV](#order=products-raw-data-csv)
+- [Aisles Raw Data CSV](#aisles-raw-data-csv)
+- [Departments Raw Data CSV](#departments-raw-data-csv)
 
-Introduction: Using a modified version of Instacart 2017 data, this project is a test to see if we can clean all the errors and process the data of the modified Instacart data. The database includes Instacart orders, products, departments, and other important information. To complete this project will require high attention to detail during the cleaning and pre-processing segment of the project and a deep understanding of the data to accurately report customer behavior through easy-to-read visuals.
+### Goal: 
+
+The objectivce is to  first clean the data and then prepare a report that gives insight into the behavior and shopping habits of Instacart customers from 2017.
+
+### Introduction: 
+
+Using a modified version of Instacart 2017 data, this project is a test to see if we can clean all the errors and process the data of the modified Instacart data. The database includes Instacart orders, products, departments, and other important information. To complete this project will require high attention to detail during the cleaning and pre-processing segment of the project and a deep understanding of the data to accurately report customer behavior through easy-to-read visuals.
 
 Analysis Outline: 
 
@@ -30,17 +46,9 @@ Part C
 
 • List of the top 20 items that are reordered most frequently by our customers.
 
-Results: Discovered our customers' shopping habits from purchase frequency to most popular sold products to highest store traffic periods.
+### Results: 
 
-## Table of Contents
-- [Instacart Exploratory Data Analysis Jupyter Notebook](#instacart-exploratory-data-analysis-jupyter-notebook)
-- [Instacart Orders Raw Data CSV](#instacart-orders-raw-data-csv)
-- [Products Raw Data CSV](#products-raw-data-csv)
-- [Order Products Raw Data CSV](#order=products-raw-data-csv)
-- [Aisles Raw Data CSV](#aisles-raw-data-csv)
-- [Departments Raw Data CSV](#departments-raw-data-csv)
-
-<a name="headers"/>
+Discovered our customers' shopping habits from purchase frequency to most popular sold products to highest store traffic periods.
 
 
 ## Instacart Exploratory Data Analysis Jupyter Notebook
