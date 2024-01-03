@@ -1,10 +1,24 @@
 # Yandex.Afisha Marketing Expense Analysis 
 
-Goal: Analyze the marketing expenses for Yandex.Afisha and find methods to optimize it. 
+## Table of Contents
+- [Goal](#goal)
+- [Introduction](#introduction)
+- [Analysis Outline](#analysis-outline)
+- [Results](#results)
+- [Yandex.Afisha Marketing Expense Analysis Jupyter Notebook](#yandex-afisha=marketing-expense-analysis-jupyter-notebook)
+- [Visits Log Raw Data CSV](#visits-log-raw-data-csv)
+- [Orders Log Raw Data CSV](#orders-log-raw-data-csv)
+- [Costs Raw Data CSV](#costs-raw-data-csv)
 
-Introduction: As an intern for Yandex.Afisha's analytical department our first task is to help optimize the marketing expenses. Yandex.Afisha will allow access to server logs for the visits from June 2017 through May 2018, a large file of all the orders, and marketing expense statistics. The project involves data cleaning, data analysis, business analysis, cohort analysis, and data visualization.
+### Goal: 
 
-Analysis Outline: 
+Analyze the marketing expenses for Yandex.Afisha and find methods to optimize it. 
+
+### Introduction: 
+
+As an intern for Yandex.Afisha's analytical department our first task is to help optimize the marketing expenses. Yandex.Afisha will allow access to server logs for the visits from June 2017 through May 2018, a large file of all the orders, and marketing expense statistics. The project involves data cleaning, data analysis, business analysis, cohort analysis, and data visualization.
+
+### Analysis Outline: 
 
 Products
 
@@ -34,23 +48,15 @@ Marketing
 
 • Calculate the return on marketing investment on each monthly cohort.
 
-Results: Based on the sample data, the ideal solution would be to allocate more of the marketing budget to the sources that were used to acquire the summer 17' cohorts and the September 17' cohort since those cohorts had the highest long term return on marketing investment.
+### Results: 
 
-
-## Table of Contents
-- [Yandex.Afisha Marketing Expense Analysis Jupyter Notebook](#yandex-afisha=marketing-expense-analysis-jupyter-notebook)
-- [Visits Log Raw Data CSV](#visits-log-raw-data-csv)
-- [Orders Log Raw Data CSV](#orders-log-raw-data-csv)
-- [Costs Raw Data CSV](#costs-raw-data-csv)
-
-<a name="headers"/>
+Based on the sample data, the ideal solution would be to allocate more of the marketing budget to the sources that were used to acquire the summer 17' cohorts and the September 17' cohort since those cohorts had the highest long term return on marketing investment.
 
 
 ## Yandex.Afisha Marketing Expense Analysis Jupyter Notebook
 Yandex.Afisha Marketing Expense Analysis project in Jupyter Notebook.
 
 Code: [Jupyter Notebook](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%209%20-%20Yandex/yandex_afisha.ipynb)
-
 
 
 ## Visits Log Raw Data CSV
