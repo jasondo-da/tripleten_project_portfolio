@@ -1,10 +1,22 @@
 # AtliQ Hardware Customer Analysis
 
-Goal: The goal of our analysis for AtliQ Hardware is to perform a customer analysis on their current clients and find a way to improve customer orders and grow the customer base. This analysis will only be performed on the sample database provided.
+## Table of Contents
+- [Goal](#goal)
+- [Introduction](#introduction)
+- [Analysis Outline](#analysis-outline)
+- [Results](#results)
+- [AtliQ Hardware Customer Analysis Jupyter Notebook](#atliQ-hardware-customer-analysis-jupyter-notebook)
+- [AtliQ Database](#atliq-database)
 
-Introduction: As a junior analyst for a third-party consulting agency, our client AtliQ Hardware is interested in learning more about their customers and is asking for a customer analysis. AtliQ Hardware has provided us with a backup of their database in the SQLite format. AtliQ Hardware has also restricted the ability to load the whole database to CSV. The backup database includes data on customers, products, gross prices, monthly sales, and other relevant information. Completing this project includes connecting to the database, cleaning data, pre-processing data, exploratory data analysis (EDA), and creating visuals for the discovered results.
+### Goal: 
 
-Analysis Outline: 
+The goal of our analysis for AtliQ Hardware is to perform a customer analysis on their current clients and find a way to improve customer orders and grow the customer base. This analysis will only be performed on the sample database provided.
+
+### Introduction: 
+
+As a junior analyst for a third-party consulting agency, our client AtliQ Hardware is interested in learning more about their customers and is asking for a customer analysis. AtliQ Hardware has provided us with a backup of their database in the SQLite format. AtliQ Hardware has also restricted the ability to load the whole database to CSV. The backup database includes data on customers, products, gross prices, monthly sales, and other relevant information. Completing this project includes connecting to the database, cleaning data, pre-processing data, exploratory data analysis (EDA), and creating visuals for the discovered results.
+
+### Analysis Outline: 
 
 • Assess the data to find the largest customers by gross profit and sales volume.
 
@@ -18,16 +30,13 @@ Analysis Outline:
 
 • Make recommendations of other popular products that other customers have frequently purchased.
 
-Results: Discovered our customers' shopping habits regarding product preferences and made recommendations on areas of improvement such as which countries to target and to put more emphasis on the e-commerce side of the business. 
+### Results: 
 
-## Table of Contents
-- [AtliQ Hardware Customer Analysis Jupyter Notebook](#atliQ-hardware-customer-analysis-jupyter-notebook)
-- [AtliQ Database](#atliq-database)
-
-<a name="headers"/>
+Discovered our customers' shopping habits regarding product preferences and made recommendations on areas of improvement such as which countries to target and to put more emphasis on the e-commerce side of the business. 
 
 
 ## AtliQ Hardware Customer Analysis Jupyter Notebook
+
 AtliQ Hardware Customer Analysis project in Jupyter Notebook.
 
 Code: [AtliQ Hardware Customer Analysis](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/Sprint%2012%20-%20AtliQ/atliq_customer_analysis.ipynb)
