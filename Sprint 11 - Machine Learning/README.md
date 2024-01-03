@@ -1,10 +1,22 @@
 # Megaline Mobile Carrier Machine Learning Model
 
-Goal: The project goal is to develop a model with the highest possible accuracy for our client Megaline a popular mobile carrier. For this project, our client is expecting an accuracy threshold of at least 0.75.
+## Table of Contents
+- [Goal](#goal)
+- [Introduction](#introduction)
+- [Analysis Outline](#analysis-outline)
+- [Results](#results)
+- [Megaline Mobile Carrier Machine Learning Model Jupyter Notebook](#megaline-mobile-carrier-machine-learning-model-jupyter-notebook)
+- [User Behavior Raw Data CSV](#user-behavior-raw-data-csv)
 
-Introduction: Megaline wants to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. Megaline gave permission to access the behavioral database about subscribers who have already switched to the new plans. This database includes calls, minutes called, messages sent, and other important information. To complete our goals, we developed a model with the highest possible accuracy. To do that we are going to split the sample data into a training set, a validation set, and a test set and input these data sets into various models to find the model with the highest accuracy score.
+### Goal: 
 
-Analysis Outline: 
+The project goal is to develop a model with the highest possible accuracy for our client Megaline a popular mobile carrier. For this project, our client is expecting an accuracy threshold of at least 0.75.
+
+### Introduction: 
+
+Megaline wants to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. Megaline gave permission to access the behavioral database about subscribers who have already switched to the new plans. This database includes calls, minutes called, messages sent, and other important information. To complete our goals, we developed a model with the highest possible accuracy. To do that we are going to split the sample data into a training set, a validation set, and a test set and input these data sets into various models to find the model with the highest accuracy score.
+
+### Analysis Outline: 
 
 • Used pandas, sklearn, and matplotlib libraries to create machine learning models
 
@@ -16,13 +28,9 @@ Analysis Outline:
 
 • Sanity checked each model type
 
-Results: The model we have built with the highest accuracy would be the random forest model. This is to be expected as the random forest model usually has the highest accuracy score when compared to the other model types.
+### Results: 
 
-## Table of Contents
-- [Megaline Mobile Carrier Machine Learning Model Jupyter Notebook](#megaline-mobile-carrier-machine-learning-model-jupyter-notebook)
-- [User Behavior Raw Data CSV](#user-behavior-raw-data-csv)
-
-<a name="headers"/>
+The model we have built with the highest accuracy would be the random forest model. This is to be expected as the random forest model usually has the highest accuracy score when compared to the other model types.
 
 
 ## Megaline Mobile Carrier Machine Learning Model Jupyter Notebook
