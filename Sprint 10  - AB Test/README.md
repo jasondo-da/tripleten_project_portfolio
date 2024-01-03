@@ -1,10 +1,23 @@
 # A/B Test Analysis
 
-Goal: The project goal is to analyze the online performance of the e-commerce platform and generate new ideas on how to increase sales revenue. To test our new ideas, we will perform an A/B test on the online landing page to see if a different web page would perform better than the current web page.
+## Table of Contents
+- [Goal](#goal)
+- [Introduction](#introduction)
+- [Analysis Outline](#analysis_outline)
+- [A/B Test Analysis Jupyter Notebook](#a/b-test-analysis-jupyter-notebook)
+- [Hypotheses US Raw Data CSV](#hypotheses-us-raw-data-csv)
+- [Orders US Raw Data CSV](#orders-us-raw-data-csv)
+- [Visits US Raw Data CSV](#visits-us-raw-data-csv)
 
-Introduction: This project is focused on two parts: analyzing a list of potential hypotheses and initiating an A/B test to find the hypothesis that can best help boost company revenue. The first dataset includes various hypotheses and their rating in reach, impact, confidence, and effort. The second dataset includes transaction IDs, visitor IDs, revenue accumulated, and other relevant information. Completing this project includes pre-processing data, calculating both ICE and RICE rating methods, A/B testing, and creating visuals of the results.
+### Goal: 
 
-Analysis Outline: 
+The project goal is to analyze the online performance of the e-commerce platform and generate new ideas on how to increase sales revenue. To test our new ideas, we will perform an A/B test on the online landing page to see if a different web page would perform better than the current web page.
+
+### Introduction: 
+
+This project is focused on two parts: analyzing a list of potential hypotheses and initiating an A/B test to find the hypothesis that can best help boost company revenue. The first dataset includes various hypotheses and their rating in reach, impact, confidence, and effort. The second dataset includes transaction IDs, visitor IDs, revenue accumulated, and other relevant information. Completing this project includes pre-processing data, calculating both ICE and RICE rating methods, A/B testing, and creating visuals of the results.
+
+### Analysis Outline: 
 
 • Performed web page, online traffic, and customer analysis using pandas, numpy, stats, and matplotlib libraries in python.
 
@@ -13,14 +26,6 @@ Analysis Outline:
 • Made fact based reccomendations to assist company executives on web page performance.
 
 Results: The end data supported that the alternative hypothesis (H1) is the better web page based on the statistical significance difference between groups A and B.
-
-## Table of Contents
-- [A/B Test Analysis Jupyter Notebook](#a/b-test-analysis-jupyter-notebook)
-- [Hypotheses US Raw Data CSV](#hypotheses-us-raw-data-csv)
-- [Orders US Raw Data CSV](#orders-us-raw-data-csv)
-- [Visits US Raw Data CSV](#visits-us-raw-data-csv)
-
-<a name="headers"/>
 
 
 ## A/B Test Analysis Jupyter Notebook
