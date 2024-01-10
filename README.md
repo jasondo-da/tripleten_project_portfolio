@@ -19,7 +19,7 @@ This repository is to showcase my technical skills and projects completed during
 | :------------- | :------------ |
 | Goals | To compile a list of hypotheses that may help boost revenue, initiate an A/B test, and analyze the results. |
 | Description | This project is focused on two parts: analyzing a list of potential hypotheses and initiating an A/B test to find the hypothesis that can best help boost company revenue. The first dataset includes various hypotheses and their rating in reach, impact, confidence, and effort. The second dataset includes transaction IDs, visitor IDs, revenue accumulated, and other relevant information. Completing this project includes pre-processing data, calculating both ICE and RICE rating methods, A/B testing, and creating visuals of the results. |
-| Skills | data cleaning, data analysis, correlation matrices, hypothesis testing, A/B testing, data visualization |
+| Skills | data cleaning, data analysis, correlation matrices, hypothesis testing, A/B testing, problem solving, data visualization |
 | Technology | VS Code, Pandas, NumPy, SciPy, Matplotlib |
 | Results | The end data supported that the alternative hypothesis (H1) is the better web page based on the statistical significance difference between groups A and B. |
 
@@ -29,7 +29,7 @@ This repository is to showcase my technical skills and projects completed during
 | :------------- | :------------ |
 | Goals | To conduct a customer analysis for AtliQ Hardware with the goal of increasing their customer orders and growing their customer base. |
 | Description | As a junior analyst for a third-party consulting agency, our client AtliQ Hardware is interested in learning more about their customers and is asking for a customer analysis. AtliQ Hardware has provided us with a backup of their database in the SQLite format. AtliQ Hardware has also restricted the ability to load the whole database to CSV. The backup database includes data on customers, products, gross prices, monthly sales, and other relevant information. Completing this project includes connecting to the database, cleaning data, pre-processing data, exploratory data analysis (EDA), and creating visuals for the discovered results. |
-| Skills | SQL querying, data cleaning, exploratory data analysis (EDA), data visualization |
+| Skills | SQL querying, data cleaning, data wrangling, exploratory data analysis (EDA), developing insights, problem solving, data visualization |
 | Technology | VS Code, Pandas, SQLite3, Matplotlib |
 | Results | Discovered our customers' shopping habits regarding product preferences and made recommendations on areas of improvement such as which countries to target and to put more emphasis on the e-commerce side of the business. |
 
@@ -50,7 +50,7 @@ Code | [Instacart Exploratory Data Analysis](https://github.com/jasondo-da/tripl
 | :------------- | :------------ |
 | Goals | To clean the data and prepare a report that gives insight into the behavior and shopping habits of Instacart customers from 2017. |
 | Description | Using a modified version of Instacart 2017 data, this project is a test to see if we can clean all the errors and process the data of the modified Instacart data. The database includes Instacart orders, products, departments, and other important information. To complete this project will require high attention to detail during the cleaning and pre-processing segment of the project and a deep understanding of the data to accurately report customer behavior through easy-to-read visuals. |
-| Skills | data cleaning, data analysis, data visualization |
+| Skills | data cleaning, data wrangling, data analysis, problem solving, data visualization |
 | Technology | VS Code, Pandas, NumPy, Matplotlib |
 | Results | Discovered our customers' shopping habits from purchase frequency to most popular sold products to highest store traffic periods. |
 
@@ -70,6 +70,6 @@ Code | [Yandex.Afisha Marketing Expense Analysis](https://github.com/jasondo-da/
 | :------------- | :------------ |
 | Goals | Analyze the marketing expenses for Yandex.Afisha and find methods to optimize it. |
 | Description | As an intern for Yandex.Afisha our first task is to help optimize the marketing expenses. Yandex.Afisha will allow access to server logs for the visits from June 2017 through May 2018, a large file of all the orders, and marketing expense statistics. The project involves data cleaning, data analysis, business analysis, cohort analysis, and data visualization. |
-| Skills | data cleaning, business analysis, cohort analysis, data visualization |
+| Skills | data cleaning, data wrangling, business analysis, cohort analysis, problem solving, data visualization |
 | Technology | VS Code, Pandas, NumPy, Seaborn, Matplotlib |
 | Results | Based on the sample data, the ideal solution would be to allocate more of the marketing budget to the sources that were used to acquire the summer 17' cohorts and the September 17' cohort since those cohorts had the highest long term return on marketing investment. |
