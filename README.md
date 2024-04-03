@@ -1,6 +1,28 @@
 # TripleTen Project Portfolio
 
-This repository is to showcase my technical skills and projects completed during my tenure at the TripleTen program. 
+This repository is to showcase my technical skills and projects completed during my tenure at the TripleTen program. Skills showcased throughout this portfolio include:
+
+- Data Cleaning
+
+- Data Wrangling
+
+- Data Visualization
+
+- A/B Testing
+
+- Exploratory Data Analysis (EDA)
+
+- Customer Analysis
+
+- Business Analysis
+
+- Statistical Analysis
+
+- SQL Querying
+
+- Creating and uploading a web app to a cloud service provider
+
+- Training and testing a machine learning model 
 
 ## Table of Contents
 - [A/B Test Project](#a/b-test-project)
@@ -60,7 +82,7 @@ Code | [Instacart Exploratory Data Analysis](https://github.com/jasondo-da/tripl
 | :------------- | :------------ |
 | Goals | The project goal is to develop a model with the highest possible accuracy for our client Megaline a popular mobile carrier. For this project, our client is expecting an accuracy threshold of at least 0.75. |
 | Description | Megaline wants to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. Megaline gave permission to access the behavioral database about subscribers who have already switched to the new plans. This database includes calls, minutes called, messages sent, and other important information. To complete our goals, we developed a model with the highest possible accuracy. To do that we are going to split the sample data into a training set, a validation set, and a test set and input these data sets into various models to find the model with the highest accuracy score. |
-| Skills | processing data sets, defining functions, data visualization |
+| Skills | processing data sets, defining functions, data visualization, and trained and tested a machine learning model |
 | Technology | VS Code, Pandas, scikit-learn, Matplotlib |
 | Results | The model we have built with the highest accuracy would be the random forest model. This is to be expected as the random forest model usually has the highest accuracy score when compared to the other model types. |
 
