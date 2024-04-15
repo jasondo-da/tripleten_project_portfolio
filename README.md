@@ -1,28 +1,6 @@
 # TripleTen Project Portfolio
 
-This repository is to showcase my technical skills and projects completed during my tenure at the TripleTen program. Skills showcased throughout this portfolio include:
-
-- Data Cleaning
-
-- Data Wrangling
-
-- Data Visualization
-
-- A/B Testing
-
-- Exploratory Data Analysis (EDA)
-
-- Customer Analysis
-
-- Business Analysis
-
-- Statistical Analysis
-
-- SQL Querying
-
-- Creating and uploading a web app to a cloud service provider
-
-- Training and testing a machine learning model 
+Welcome to my TripleTen project repository! This repository is a collection of Python projects I completed during my tenure at the TripleTen data analytics program. This portfolio will showcase my technical skills and expertise in database management, data analysis, and data manipulation using Python. 
 
 ## Table of Contents
 - [A/B Test Project](#a/b-test-project)
@@ -31,8 +9,6 @@ This repository is to showcase my technical skills and projects completed during
 - [Instacart Exploratory Data Analysis](#instacart-exploratory-data-analysis)
 - [Megaline Mobile Carrier Machine Learning Model](#megaline-mobile-carrier-machine-learning-model)
 - [Yandex.Afisha Marketing Expense Analysis](#yandexafisha-marketing-expense-analysis)
-
-<a name="headers"/>
 
 
 ## A/B Test Project
